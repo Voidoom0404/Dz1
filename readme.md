@@ -7,11 +7,12 @@ LICENCE: [MIT](/licence.md)
 ---
 
 ### Содержание:
+
 1. [Setting](setting.md)-*Настройка Git перед работой*
 2. [InitializingRepositor](InitializingRepository.md)-*Инициализация репозитория*
 3. [BasicCommands](BasicCommands)-*Основыные команды*
-4. [BranchCommand](BranchCommand)-*Команды для ветвей*
-5. [Feedback](Feedback)Feedback-*Обратная связь с автором*
+4. [BranchCommands](BranchCommand)-*Команды для ветвей*
+5. [Feedback](Feedback)-*Обратная связь с автором*
 2. [git add](add.md)
 
 ---
