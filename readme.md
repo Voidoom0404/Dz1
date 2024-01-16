@@ -13,7 +13,7 @@ LICENCE: [MIT](/licence.md)
 3. [BasicCommands](BasicCommands)-*Основные команды*
 4. [BranchCommands](BranchCommand)-*Команды для ветвей*
 5. [Feedback](Feedback)-*Обратная связь с автором*
-2. [git add](add.md)
+6. [git add](add.md)
 
 ---
 
